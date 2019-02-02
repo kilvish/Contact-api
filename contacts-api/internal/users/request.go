@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	serr "github.com/anil/loomtest/src/error"
+	serr "github.com/anil/contacts-api/error"
 	"github.com/gorilla/mux"
 )
 
