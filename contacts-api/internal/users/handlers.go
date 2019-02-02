@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"time"
 
-	serr "github.com/anil/loomtest/src/error"
+	serr "github.com/anil/contacts-api/error"
 
-	"github.com/anil/loomtest/src/middleware"
+	"github.com/anil/contacts-api/middleware"
 )
 
 const (
