@@ -1,6 +1,6 @@
 package users
 
-import "github.com/anil/loomtest/src/middleware"
+import "github.com/anil/contacts-api/middleware"
 
 type middlewares struct {
 	addUserMiddlewares *middleware.Chain
