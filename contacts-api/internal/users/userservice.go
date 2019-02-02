@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/anil/loomtest/src/uuid"
+	"github.com/anil/contacts-api/internal/users/uuid"
 )
 
 type userService struct {
